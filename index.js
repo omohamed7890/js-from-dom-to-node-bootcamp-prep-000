@@ -1,2 +1,0 @@
-
-consool.log("Hello, World!");
